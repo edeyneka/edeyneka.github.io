@@ -10,7 +10,7 @@ tags:
   - europe
 ---
 
-Useful tips for master's application process in Europe
+*Useful tips for master's application process in Europe*
 
 In 2017 I applied to a couple of leading European universities and scholarships. I was accepted to TU Delft, EPFL, UPF in Barcelona. In this blogpost I will share the most important things you need to know when applying to European schools, i.e. how to choose a program, scholarships, CVs, motivation letters, contacts with professors, recommendation letters. Finally, some info about PhD in Europe which is based on my friends’ experiences. So, let’s begin.
 
