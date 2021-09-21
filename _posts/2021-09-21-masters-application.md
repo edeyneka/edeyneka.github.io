@@ -71,27 +71,17 @@ You can change the order 1→2→3→4 to 1→3→2→4
 
 In order to be specific in your motivation letters, you need to have at least some information on which lab you would like to join, what the ongoing projects are, do they work with master students. Therefore, I suggest contacting the professors of interest in advance and ask them about possible research projects. Prior to that you can scroll the lab website or read the latest papers. Professors might answer that you are too early, in this case just ask them to tell more about their current research. Maybe some of them will give you a small research task, so that you can show your determination and skills. Here is an example of the letter to professors:
 
-> Dear Prof. X,
->I am a prospective student of the Y program and I am writing concerning possible masters project at your lab. I am very passionate about X, Y, Z (something that aligns with their research). I am going to apply for a masters program in X and wanted to ask if you are taking students next year? If yes, what could be a possible topic for research project at your lab?
->I feel that my research and academic background can offer substantial assistance in your research.
+>Dear Prof. X,
+>
+>I am a prospective student of the Y program and I am writing concerning possible masters project at your lab. I am very passionate about X, Y, Z (something that aligns with their research). I am going to apply for a masters program in X and wanted to ask if you are taking students next year? If yes, what could be a possible topic for research project at your lab? I feel that my research and academic background can offer substantial assistance in your research.
+>
 >Few words about myself. ... Attached you can find my CV for more information.
+>
 >Look forward to your reply!
+>
 >Sincerely yours,
+>
 >X Y
-
-> Dear Prof. X,
-
-I am a prospective student of the Y program and I am writing concerning possible masters project at your lab. I am very passionate about X, Y, Z (something that aligns with their research). I am going to apply for a masters program in X and wanted to ask if you are taking students next year? If yes, what could be a possible topic for research project at your lab?
-
-I feel that my research and academic background can offer substantial assistance in your research.
-
-Few words about myself. ... Attached you can find my CV for more information.
-
-Look forward to your reply!
-
-Sincerely yours,
-
-X Y
 
 
 Interesting fact. In 2017 I contacted two professors at TU Delft and both of them were in my thesis committee in 2020. And I am very grateful for them that they answered because it gave me extra motivation.
