@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Ekaterina Deyneka CV](/files/C_Sept_2021.pdf)
+
 {% include base_path %}
 
 Education
