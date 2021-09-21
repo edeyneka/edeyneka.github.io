@@ -9,9 +9,12 @@ tags:
   - applications
 ---
 
+*International exams insights*
+![exams](/images/ielts-toefl-gre.png)
+
 It's been quite a while since I have passed my exams, however, I finally decided to accumulate all the information and insights that I have concerning these exams. So, firstly, I will talk about differences between IELTS and TOELF and what aspects you might consider while choosing either of these tests. Next, I will share a bunch of useful links for IELTS and TOEFL. Finally, I would like to mention some insights on GRE. Let's start!
 
-### IELTS vs TOELF
+## IELTS vs TOELF
 
 IELTS is a British test, whereas TOELF is American. Therefore, if you aim to apply for the US universities it is better to take TOELF as IELTS can be not accepted in some schools. IELTS is mostly suitable for European universities. 
 
@@ -23,7 +26,7 @@ These are the main organizational points I wanted to cover, so now I will contin
 
  
 
-### Resources for TOELF/IELTS
+## Resources for TOELF/IELTS
 
 Here, I will give the most important resources for TOEFL and IELTS. It is worth mentioning that I had a personal tutor while preparing for IELTS because I was not sure about my writing and speaking skills. While getting ready for TOELF, I was already studying at TU Delft, so I was `quite experienced` and was comfortable self-studying. In general, I would say that it is 100% doable to prepare for these test by yourself. Just your strong intention and time. 
 
@@ -59,7 +62,7 @@ I used these essays as a good inspiration and source of C1 phrases: [7 IELTS ess
 
 For those who are Moscow-based, I strongly suggest to take a mock exam: [Mock IELTS](https://www.ielts.su/academic_center/mock_ielts) It helps you to put yourself into an exam setting and reveal your weaknesses. Moreover, they will give you a detailed feedback which is also very helpful. If you do not live in Moscow, try to Google such opportunities in your location.
 
-### GRE
+## GRE
 
 GRE is a big pain. I know that more and more grad school are giving up on the GRE requirements but still I want to share my experience. For all tech-student, do not even try to study the vocabulary, it is almost impossible. The same colleague from Delft put everything at random and went to take a rest in the remaining time 😆 smart cookie! Instead try to focus on maths. Sounds a bit weird especially if you have a maths degree. But! 1) you will be in a hurry, 2) there can be really long prompts, especially for analyzing graphs, 3) tests have nothing to do with your mathematical knowledge. I failed my GRE maths part because I did not practice it much, unfortunately. As for the writing, the recommendations are the same as for TOEFL - just learn the template and you are done! Here are my templates:
 
