@@ -95,7 +95,7 @@ Interesting fact. In 2017 I contacted two professors at TU Delft and both of the
 
 3. Usually you will write a recommendation template for yourself, and here you have to praise yourself. It is difficult, but remember that in western culture a “good student” is a “bad student”. Therefore, multiply the complements by 2 😄 Just remember this distribution
 
-![distribution.jpeg](distribution.jpeg)
+![distribution.jpeg](https://github.com/edeyneka/edeyneka.github.io/blob/newBranch/images/distribution.jpeg)
 
 4. Sometimes you will need to ping your referees and it is fine, just do it in the polite way. I know you might feel uncomfortable but this is life and you have to be persistent no matter that others will think of you (to be honest, nobody actually thinks of you 😃)
 
