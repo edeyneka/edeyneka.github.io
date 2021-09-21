@@ -7,7 +7,6 @@ tags:
   - europe
   - master degree
   - study abroad
-  - europe
 ---
 
 *Useful tips for master's application process in Europe*
