@@ -1,5 +1,5 @@
 ---
-title: "Master's Application"
+title: "Master's Application in Europe"
 date: 2021-09-21
 permalink: /posts/2021/09/masters-application/
 tags:
@@ -7,17 +7,20 @@ tags:
   - europe
   - master degree
   - study abroad
+  - europe
 ---
+
+Useful tips for master's application process in Europe
 
 In 2017 I applied to a couple of leading European universities and scholarships. I was accepted to TU Delft, EPFL, UPF in Barcelona. In this blogpost I will share the most important things you need to know when applying to European schools, i.e. how to choose a program, scholarships, CVs, motivation letters, contacts with professors, recommendation letters. Finally, some info about PhD in Europe which is based on my friends’ experiences. So, let’s begin.
 
-### How to choose a program?
+## How to choose a program?
 
 It is crucial to apply for a program that is a logical continuation of your previous studies. I would say that in Europe it is a must. I applied to several programs in ETH and got rejected because I chose engineering programs, not scientific. I though that if I passed theoretical physics at Moscow Institute of Physics and Technology (MIPT), then I will be able to pass everything in the world 😃 However, ETH committee has a different opinion. Another example. My program at TU Delft, Nanobiology, has 3 majoring courses: Maths, Physics and Baiology. And I was just a perfect fit to this program. I suppose this was one of the reasons for them to choose me. If you want to check if you are eligible for a program, look at the bachelor’s curriculum and find out if you had all those classes during your bachelor. Moreover, check master’s curriculum and see how competent you are for the future courses. If you are not sure about your eligibility, write to the application committee and verify how strict they are with the courses.
 
 I mentioned some basic and formal strategies on how to choose the program. Of course, everything is up to you and your interests, although keep in mind the things I have mentioned.
 
-### Scholarships
+## Scholarships
 
 I am always saying that being accepted to a uni is not that difficult as getting funding to cover studying and living expenses. There are some nuances. Education in Germany and Switzerland is almost free, however, in the Netherlands for non-Europeans it is very costly. At the same time, living in Switzerland can be enormously expensive. Keep this in mind. Of course, receiving a full scholarship can be challenging and you need to have some exceptional results for that. For example, high grades. No matter how often you have heard that grades do not matter and the knowledge is top priority, GPA matters A LOT when applying to foreign programs and scholarships. The reason for that is that they do not have any other way to asses you. I suppose that my high GPA was crucial for TU Delft as well as the unique combination of Maths, Physics and Biology. Also, be ready that the deadlines for the most of the scholarships are EARLIER than the deadlines for the corresponding universities. Usually, for the scholarship, you will need to write a separate motivation letter or even a research proposal. Some tips on how your scholarship motivation letter should look like:
 
@@ -32,7 +35,7 @@ I am always saying that being accepted to a uni is not that difficult as getting
 My scholarship in TU Delft was around 55K €, 30+K to cover the study costs for 2 years and ~22K were paid out to me as a 860€ monthly stipend. 500€ of them I spend on the housing and 360€ were left which is not that much. I always tried to find alternative ways to earn money and the best option is teacher assistantship.
 
 
-### Documents
+## Documents
 
 A standard application includes: certificate of English proficiency, your transcripts in English, motivation letter, recommendation letters (2 or 3).
 
@@ -96,7 +99,7 @@ Interesting fact. In 2017 I contacted two professors at TU Delft and both of the
 
 4. Sometimes you will need to ping your referees and it is fine, just do it in the polite way. I know you might feel uncomfortable but this is life and you have to be persistent no matter that others will think of you (to be honest, nobody actually thinks of you 😃)
 
-### PhD in Europe
+## PhD in Europe
 
 Based on what I have seen and my friends’ experience, PhD application for European universities is more relaxed. There are some unis that have application process similar to masters. But usually you just need to write directly to the professor and they will set up an interview. In many cases, you will not need even an English proficiency exam. PhD is regarded as work in Europe and you will be paid more or less well compared to the US. If you come to the Netherlands, for example, you as a foreign worker will have 30% of your income non taxable (the Dutch 30% ruling). Nice think to be aware of :)
 
