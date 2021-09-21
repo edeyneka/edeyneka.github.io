@@ -1,7 +1,7 @@
 ---
 title: "Master's Application"
 date: 2021-09-21
-permalink: /posts/2021/09/ielts-toefl-gre/
+permalink: /posts/2021/09/masters-application/
 tags:
   - applications
   - europe
