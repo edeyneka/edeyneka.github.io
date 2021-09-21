@@ -10,7 +10,8 @@ tags:
 ---
 
 *Useful tips for master's application process in Europe*
-![exams](/images/masters-application.png)
+
+![applications](/images/masters-application.png)
 
 In 2017 I applied to a couple of leading European universities and scholarships. I was accepted to TU Delft, EPFL, UPF in Barcelona. In this blogpost I will share the most important things you need to know when applying to European schools, i.e. how to choose a program, scholarships, CVs, motivation letters, contacts with professors, recommendation letters. Finally, some info about PhD in Europe which is based on my friends’ experiences. So, let’s begin.
 
@@ -54,7 +55,8 @@ Also, try to substantiate everything that you write about yourself with a real (
 Over and over again, do not start your letter with “since my childhood I have been wondering how the universe works and bla bla”. Come on, you are not at kindergarten, you are serious grown ups who want to receive a decent degree! Try to find something that really resonates with you and your passions. And do not worry if you cannot come up with anything. It is normal. When I was applying to the master’s, I still did not have any clear picture on what I would like to do. To be honest, I’m still not sure, although the picture have become clearer and clearer for the past years. Some examples on how to start from my motivation letters:
 
 > I am convinced that Program X is the best option for me due to well-grounded reasons. First, the program exactly corresponds to my interest in implementing computational models and tools in biomedical sphere. IT actively assists in experimental research and helps to analyze huge amount of biological data. Computational approach can solve various biological problems and give answers to urgent questions concerning human health. Therefore, I find this area very interesting and challenging. I am so fascinated about combining mathematical, biological, chemical knowledge with computational approaches for the development of life science technologies that it drives me to deepen in this area and choose it for my master education.
-*2018*
+>
+>*2018*
 
 **Be specific on your interests.** Try to describe what you have done so far and how it has lead you to your current preferences in research. Be specific, even if you are not 100% sure about this area. Everybody understands that life can change and interests can and should change, so do not worry. Just try to avoid any hand waving and general phrases like “I would like to beat cancer”.
 
