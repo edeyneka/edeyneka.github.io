@@ -87,9 +87,7 @@ Interesting fact. In 2017 I contacted two professors at TU Delft and both of the
 
 2. If you want to have a recommendation from a particular person who haven’t have an opportunity to assess your qualifications, just reach out to them and explicitly say that you are seeking for recommendations and maybe you can help with some research project, or teaching.
 
-3. Usually you will write a recommendation template for yourself, and here you have to praise yourself. It is difficult, but remember that in western culture a “good student” is a “bad student”. Therefore, multiply the complements by 2 😄 Just remember this distribution:
-
-![distribution.jpeg](/images/distribution.jpeg)
+3. Usually you will write a recommendation template for yourself, and here you have to praise yourself. It is difficult, but remember that in western culture a “good student” is a “bad student”. Therefore, multiply the complements by 2 😄 Just remember this distribution: ![distribution.jpeg](/images/distribution.jpeg)
 
 4. Sometimes you will need to ping your referees and it is fine, just do it in the polite way. I know you might feel uncomfortable but this is life and you have to be persistent no matter that others will think of you (to be honest, nobody actually thinks of you 😃)
 

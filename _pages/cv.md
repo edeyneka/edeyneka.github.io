@@ -8,4 +8,4 @@ redirect_from:
 ---
 {% include base_path %}
 
-[Ekaterina Deyneka CV](/files/CV_Sept_2021.pdf)
+[Ekaterina Deyneka CV](/files/Ekaterina_Deyneka_CV.pdf)
