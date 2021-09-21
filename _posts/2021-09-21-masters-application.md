@@ -65,13 +65,19 @@ Having said the main points for the whole motivation letter, let me give the ove
 
 4. Conclusion
 
-You can change the order 1→2→3→4 to  1→3→2→4
+You can change the order 1→2→3→4 to 1→3→2→4
 
 **Contacts with professors.** This is very important yet not obvious thing to do.
 
 In order to be specific in your motivation letters, you need to have at least some information on which lab you would like to join, what the ongoing projects are, do they work with master students. Therefore, I suggest contacting the professors of interest in advance and ask them about possible research projects. Prior to that you can scroll the lab website or read the latest papers. Professors might answer that you are too early, in this case just ask them to tell more about their current research. Maybe some of them will give you a small research task, so that you can show your determination and skills. Here is an example of the letter to professors:
 
-> Dear Prof. X,\\I am a prospective student of the Y program and I am writing concerning possible masters project at your lab. I am very passionate about X, Y, Z (something that aligns with their research). I am going to apply for a masters program in X and wanted to ask if you are taking students next year? If yes, what could be a possible topic for research project at your lab?\\I feel that my research and academic background can offer substantial assistance in your research.\\Few words about myself. ... Attached you can find my CV for more information.\\Look forward to your reply!\\Sincerely yours,\\X Y
+> Dear Prof. X,
+>I am a prospective student of the Y program and I am writing concerning possible masters project at your lab. I am very passionate about X, Y, Z (something that aligns with their research). I am going to apply for a masters program in X and wanted to ask if you are taking students next year? If yes, what could be a possible topic for research project at your lab?
+>I feel that my research and academic background can offer substantial assistance in your research.
+>Few words about myself. ... Attached you can find my CV for more information.
+>Look forward to your reply!
+>Sincerely yours,
+>X Y
 
 Interesting fact. In 2017 I contacted two professors at TU Delft and both of them were in my thesis committee in 2020. And I am very grateful for them that they answered because it gave me extra motivation.
 
@@ -81,9 +87,9 @@ Interesting fact. In 2017 I contacted two professors at TU Delft and both of the
 
 2. If you want to have a recommendation from a particular person who haven’t have an opportunity to assess your qualifications, just reach out to them and explicitly say that you are seeking for recommendations and maybe you can help with some research project, or teaching.
 
-3. Usually you will write a recommendation template for yourself, and here you have to praise yourself. It is difficult, but remember that in western culture a “good student” is a “bad student”. Therefore, multiply the complements by 2 😄 Just remember this distribution
+3. Usually you will write a recommendation template for yourself, and here you have to praise yourself. It is difficult, but remember that in western culture a “good student” is a “bad student”. Therefore, multiply the complements by 2 😄 Just remember this distribution:
 
-![distribution.jpeg](https://github.com/edeyneka/edeyneka.github.io/blob/newBranch/images/distribution.jpeg)
+![distribution.jpeg](/images/distribution.jpeg)
 
 4. Sometimes you will need to ping your referees and it is fine, just do it in the polite way. I know you might feel uncomfortable but this is life and you have to be persistent no matter that others will think of you (to be honest, nobody actually thinks of you 😃)
 
