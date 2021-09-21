@@ -6,10 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-[Ekaterina Deyneka CV](/files/C_Sept_2021.pdf)
-
 {% include base_path %}
+
+[Ekaterina Deyneka CV](/files/CV_Sept_2021.pdf)
+
 
 Education
 ======
