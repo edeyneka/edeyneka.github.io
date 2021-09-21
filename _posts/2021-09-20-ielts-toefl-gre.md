@@ -27,35 +27,37 @@ These are the main organizational points I wanted to cover, so now I will contin
 
 Here, I will give the most important resources for TOEFL and IELTS. It is worth mentioning that I had a personal tutor while preparing for IELTS because I was not sure about my writing and speaking skills. While getting ready for TOELF, I was already studying at TU Delft, so I was `quite experienced` and was comfortable self-studying. In general, I would say that it is 100% doable to prepare for these test by yourself. Just your strong intention and time. 
 
-Vocabulary. Strong suggestion, do not use translation to your native language! Instead use English-English dictionaries. By doing so, you always enlarge your vocabulary in terms of synonyms which are very important in these exams. For example, in writing tasks you will need to rephrase a single idea at least three times (in intro, main body, and conclusion), therefore synonyms is a must.  My favorite dictionary, which I have been using for about 10 years, is [https://dictionary.cambridge.org/](https://dictionary.cambridge.org/). Here, you will also immediately see how a word is used in different cases, which prepositions to use, what are the popular collocations. 
+Vocabulary. Strong suggestion, do not use translation to your native language! Instead use English-English dictionaries. By doing so, you always enlarge your vocabulary in terms of synonyms which are very important in these exams. For example, in writing tasks you will need to rephrase a single idea at least three times (in intro, main body, and conclusion), therefore synonyms is a must.  My favorite dictionary, which I have been using for about 10 years, is [Cambridge Dictionary](https://dictionary.cambridge.org/). Here, you will also immediately see how a word is used in different cases, which prepositions to use, what are the popular collocations. 
 
 Writing. The most of the points you will get if you write a lot. Therefore, I recommend learning a template which would be suitable to any topic. It is applicable for both IELTS and TOEFL. When I was writing TOEFL. It will help you to structure your essay so that the only thing you need during the test is to insert topic-related words. I got 29 points out of 30 for writing on TOEFL just because of these templates. Very very useful!
 
 **Integrated writing task**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c17a7e6f-2bdf-4131-9d3c-b5e081b8d170/Untitled.png)
+![Integrated writing task](/images/Integrated-writing-task.jpeg)
 
 **Independent writing task**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7886f257-7cc1-44bf-9ae9-3f5a410d12aa/Untitled.png)
+![Independent writing task 1](/images/Independent-writing-task-1.jpeg)
+
+![Independent writing task 2](/images/Independent-writing-task-2.jpeg)
+
+**Speaking**
 
 Speaking templates are also worth learning by heart. While saying them, you will give yourself a few seconds on what to say next: 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b1928d1-e64b-46e9-bf1f-965d8f0420bd/Untitled.png)
+![Speaking](/images/Speaking.jpeg)
 
 As for the IELTS, I found this course incredibly useful. I did not buy anything, the free version is already very useful. Especially for writing, again templates, structure, phrases:
 
-[https://www.edx.org/course/ielts-academic-test-preparation](https://www.edx.org/course/ielts-academic-test-preparation)
+[IELTS Academic Test Preparation](https://www.edx.org/course/ielts-academic-test-preparation)
 
-Vocabulary topics to practice speaking: [http://www.ieltsspeaking.co.uk/ielts-vocabulary/](http://www.ieltsspeaking.co.uk/ielts-vocabulary/)
+Vocabulary topics to practice speaking: [IELTS Vocabulary/](http://www.ieltsspeaking.co.uk/ielts-vocabulary/), [IELTSLiz Vocabulary](http://ieltsliz.com/vocabulary/)
 
-[http://ieltsliz.com/vocabulary/](http://ieltsliz.com/vocabulary/)
+Here, I practiced listening: [Practice tests](https://www.english-exam.org/IELTS/practice_tests/) 
 
-Here, I practiced listening: [https://www.english-exam.org/IELTS/practice_tests/](https://www.english-exam.org/IELTS/practice_tests/) 
+I used these essays as a good inspiration and source of C1 phrases: [7 IELTS essay samples of band 9 students](https://ieltsonlinepractice.com/7-ielts-essay-samples-of-band-9-students/)
 
-I used these essays as a good inspiration and source of C1 phrases: [https://ieltsonlinepractice.com/7-ielts-essay-samples-of-band-9-students/](https://ieltsonlinepractice.com/7-ielts-essay-samples-of-band-9-students/)
-
-For those who are Moscow-based, I strongly suggest to take a mock exam: [https://www.ielts.su/academic_center/mock_ielts](https://www.ielts.su/academic_center/mock_ielts) It helps you to put yourself into an exam setting and reveal your weaknesses. Moreover, they will give you a detailed feedback which is also very helpful. If you do not live in Moscow, try to Google such opportunities in your location.
+For those who are Moscow-based, I strongly suggest to take a mock exam: [Mock IELTS](https://www.ielts.su/academic_center/mock_ielts) It helps you to put yourself into an exam setting and reveal your weaknesses. Moreover, they will give you a detailed feedback which is also very helpful. If you do not live in Moscow, try to Google such opportunities in your location.
 
 ### GRE
 
@@ -63,14 +65,14 @@ GRE is a big pain. I know that more and more grad school are giving up on the GR
 
 **Analyze an Argument**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2252b4ab-9b8b-471c-af69-5c1d80f77023/Untitled.png)
+![Analyze an Argument](/images/Analyze-an-Argument.jpeg)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d738fb11-d69d-477d-b162-e22f0a2807bc/Untitled.png)
 
 **Analyze an Issue**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4ce759b-c08e-4269-9c5e-528782e5b2cc/Untitled.png)
+![Analyze an Issue 1](/images/Analyze-an-Issue-1.jpeg)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/409016b2-0fab-46ed-848c-a42c511694a4/Untitled.png)
+![Analyze an Issue 2](/images/Analyze-an-Issue-2.jpeg)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25cfb551-5c2a-4bb9-85f0-0d27b20340ee/Untitled.png)
+![Analyze an Issue 3](/images/Analyze-an-Issue-3.jpeg)
+
