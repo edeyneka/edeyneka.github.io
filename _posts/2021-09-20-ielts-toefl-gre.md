@@ -29,7 +29,7 @@ These are the main organizational points I wanted to cover, so now I will contin
 
  
 
-## Resources for TOELF/IELTS
+## Resources for TOELF
 
 Here, I will give the most important resources for TOEFL and IELTS. It is worth mentioning that I had a personal tutor while preparing for IELTS because I was not sure about my writing and speaking skills. While getting ready for TOELF, I was already studying at TU Delft, so I was `quite experienced` and was comfortable self-studying. In general, I would say that it is 100% doable to prepare for these test by yourself. Just your strong intention and time. 
 
@@ -53,13 +53,13 @@ Speaking templates are also worth learning by heart. While saying them, you will
 
 ![Speaking](/images/Speaking.jpeg)
 
-As for the IELTS, I found this course incredibly useful. I did not buy anything, the free version is already very useful. Especially for writing, again templates, structure, phrases:
+## Resources for IELTS
 
-[IELTS Academic Test Preparation](https://www.edx.org/course/ielts-academic-test-preparation)
+I found this course incredibly useful. I did not buy anything, the free version is already very helpful. Especially for writing, again templates, structure, phrases: [IELTS Academic Test Preparation](https://www.edx.org/course/ielts-academic-test-preparation)
 
 Vocabulary topics to practice speaking: [IELTS Vocabulary/](http://www.ieltsspeaking.co.uk/ielts-vocabulary/), [IELTSLiz Vocabulary](http://ieltsliz.com/vocabulary/)
 
-Here, I practiced listening: [Practice tests](https://www.english-exam.org/IELTS/practice_tests/) 
+Here I practiced listening: [Practice tests](https://www.english-exam.org/IELTS/practice_tests/) 
 
 I used these essays as a good inspiration and source of C1 phrases: [7 IELTS essay samples of band 9 students](https://ieltsonlinepractice.com/7-ielts-essay-samples-of-band-9-students/)
 

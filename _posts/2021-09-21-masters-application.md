@@ -48,7 +48,8 @@ A standard application includes: certificate of English proficiency, your transc
 
 **CV.** This is your front of your application. It should be short and concise and reflect the most relevant experience. Try to recall all your achievements: all scholarships, awards, speeches, teaching experience. Also, I strongly suggest Latex, or Overleaf, for writing your CV - it looks professional and will help you to stand out from others. Here are some useful tutorials for mastering Latex: [https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
-As an example, my CV from 2018.
+As an example, my [CV from 2018](/files/Deyneka_CV_2018.pdf). I am not sure that it is the best example, but at least it worked for me. 
+
 
 **Motivation letter.** This is one of the most important document in your application. Here, you need to show that you are the person they are looking for. Try to focus not only on what you will gain out of this program, but how the university / research community / global society will benefit from your expertise. Of course, you might exaggerating a bit about your contribution, but at the same time you need to sell yourself. I know that Russians, especially Russian girls including me, are not good at self-marketing because throughout all our life we have been taught “not to show off”, “sit quietly” and so on. For the Western world it does not work.
 
@@ -64,7 +65,7 @@ Over and over again, do not start your letter with “since my childhood I have 
 
 Having said the main points for the whole motivation letter, let me give the overall structure.
 
-1. Introductory paragraph on who you are and why are you writing.
+1. Introductory paragraph on who you are and why are you writing
 
 2. Why you choose this university and program. Which lab are you interested in joining
 
