@@ -18,4 +18,6 @@ I have extensive experience in applications to European and US universities and 
 
 Also, I am planning to write about the applications for PhD programs in the US.
 
-Apart from academia and coding, I am passionate about healthy lifestyle, workouts, running, and cooking healthy food. Checkout my food blog [@my.eatittude](https://www.instagram.com/my.eattitude/). ![myeattitude](/images/myeattitude.jpg)
+Apart from academia and coding, I am passionate about healthy lifestyle, workouts, running, and cooking healthy food. Checkout my food blog [@my.eatittude](https://www.instagram.com/my.eattitude/) 
+
+![myeattitude](/images/myeattitude.jpg)
