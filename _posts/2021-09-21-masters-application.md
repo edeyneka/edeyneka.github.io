@@ -42,7 +42,7 @@ My scholarship in TU Delft was around 55K €, 30+K to cover the study costs for
 
 A standard application includes: certificate of English proficiency, your transcripts in English, motivation letter, recommendation letters (2 or 3).
 
-**Certificate of English proficiency.** I wrote a detailed guidance on IELTS and TOEFL. You need just to pass these test. If you have 9.0/9.0 for IELTS, it is not likely to give any extra points to your application.
+**Certificate of English proficiency.** I wrote a detailed guidance on [IELTS and TOEFL](/posts/2021/09/ielts-toefl-gre/). You need just to pass these test. If you have 9.0/9.0 for IELTS, it is not likely to give any extra points to your application.
 
 **Transcripts in English**. You need to come to the international relations department at your current university and ask for the transcripts in English. If they do not provide such documents, you need to translate by yourself and then come the international relations department to verify that your translation is valid. Note, that your GPA is very important in such applications. My suggestion is to keep that in mind and always try to do you best during the exams and if you have an opportunity to retake something, grab it. You never know when these grades will play a role in your life.
 
