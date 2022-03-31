@@ -1,7 +1,7 @@
 ---
-title: "Master's Application in Europe"
-date: 2021-09-21
-permalink: /posts/2021/09/masters-application/
+title: "Tips towards an internship offer"
+date: 2022-03-30
+permalink: /posts/2023/03/internships/
 tags:
   - applications
   - europe
