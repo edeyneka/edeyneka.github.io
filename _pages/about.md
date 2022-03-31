@@ -16,8 +16,9 @@ I relocated to California in 2020 in the middle of the global pandemia to do PhD
 
 I have extensive experience in applications to European and US universities and one of the reasons for creating this website was to share my insights on [International Exams](/posts/2021/09/ielts-toefl-gre/) and [Master’s Application in Europe](/posts/2021/09/masters-application/). I know how challenging it might be to go through this alone, therefore, if you know anyone who is applying, share my posts with them. I hope, it will be useful. If you have any questions, reach out to me by email, I am always happy to help.
 
-Also, I am planning to write about the applications for PhD programs in the US.
+<!-- Also, I am planning to write about the applications for PhD programs in the US.
 
 Apart from academia and coding, I am passionate about healthy lifestyle, workouts, running, and cooking healthy food. Checkout my food blog [@my.eatittude](https://www.instagram.com/my.eattitude/) 
 
 ![myeattitude](/images/myeattitude.jpg)
+ -->
