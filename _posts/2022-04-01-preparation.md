@@ -68,6 +68,7 @@ Keywords are highly important for the preliminary check of your CV either by a s
 
 </aside>
 
+
 I guess you caught the point: use as much phrases and keywords from the job vacancy. Remember, it is a good idea to customize your CV for each position.
 
 ### Order and grammatical expressions
@@ -78,9 +79,9 @@ Try to be consistent in your grammatical structures. For example, when you list 
 
 ### Formatting
 
-Make your CV look as professional as possible. I am a huge fan of LaTeX and OverLeaf and I prefer these tools to Word because they help to construct very good-looking and professional document. There are a bunch of nice CV templates: [https://www.overleaf.com/gallery/tagged/cv/page/1](https://www.overleaf.com/gallery/tagged/cv/page/1), however, you need basic LaTeX experience to use them. My personal opinion, spend an evening to learn how to use LaTeX and OverLeaf. It is really worth it!
+Make your CV look as professional as possible. I am a huge fan of LaTeX and OverLeaf and I prefer these tools to Word because they help to construct very good-looking and professional document. There are a bunch of nice CV templates: [hnice CV templates](https://www.overleaf.com/gallery/tagged/cv/page/1), however, you need basic LaTeX experience to use them. My personal opinion, spend an evening to learn how to use LaTeX and OverLeaf. It is really worth it!
 
-For Russian-speaking readers, here is a nice manual by Prof. Konstantin Vorontsov [http://www.ccas.ru/voron/download/voron05latex.pdf](http://www.ccas.ru/voron/download/voron05latex.pdf). For English tutorial, you can use this one [https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
+For Russian-speaking readers, here is [a manual by Prof. Konstantin Vorontsov](http://www.ccas.ru/voron/download/voron05latex.pdf). For English tutorial, you can use this one [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
 
 ### Master résumé
 
@@ -93,7 +94,7 @@ LinkedIn page is equally important as a CV. Even if an employer gets your CV fil
 1. Photo. Your photo should be professional and cropped to show your face clearly. If you have a profile photo, you page will immediately become more visible. 
 2. Headline. Make it full of keywords and list them with “|” sign. Here should be the most important information about you.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd52a0d8-c536-4129-8d22-a4acaa93d26c/Untitled.png)
+    ![LinkedIn.png](/images/LinkedIn.png)
     
 3. Edit URL. Personalize the URL for your profile so that it is recognizable and easy to share.
 4. Fill in all the information about your education (including the core courses), work experience with the description of responsibility and achievements, projects, awards, skills. If you know someone who can endorse for your skills, ask them to do so. Here, your master résumé could be of great help - you can just copy all the details. LinkedIn does not limit you in any way, so provide all the information you find valuable for the potential employer.
