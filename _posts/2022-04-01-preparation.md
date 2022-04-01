@@ -79,7 +79,7 @@ Try to be consistent in your grammatical structures. For example, when you list 
 
 ### Formatting
 
-Make your CV look as professional as possible. I am a huge fan of LaTeX and OverLeaf and I prefer these tools to Word because they help to construct very good-looking and professional document. There are a bunch of nice CV templates: [hnice CV templates](https://www.overleaf.com/gallery/tagged/cv/page/1), however, you need basic LaTeX experience to use them. My personal opinion, spend an evening to learn how to use LaTeX and OverLeaf. It is really worth it!
+Make your CV look as professional as possible. I am a huge fan of LaTeX and OverLeaf and I prefer these tools to Word because they help to construct very good-looking and professional document. There is a bunch of [nice CV templates:](https://www.overleaf.com/gallery/tagged/cv/page/1), however, you need basic LaTeX experience to use them. My personal opinion, spend an evening to learn how to use LaTeX and OverLeaf. It is really worth it!
 
 For Russian-speaking readers, here is [a manual by Prof. Konstantin Vorontsov](http://www.ccas.ru/voron/download/voron05latex.pdf). For English tutorial, you can use this one [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
 
