@@ -18,7 +18,7 @@ Hello! It has been more than a year since I received my software engineering int
 > Disclaimer: I got offers from Snap Inc, Apple and went through all technical interviews with Google and dropped from the process by myself (because I had already accepted Snap’s offer).
 > 
 
-Before I start, let me say some words about my background and coding experience.
+Before I dive into the topic, let me say some words about my background and coding experience.
 
 In 2020 I started my PhD in Computer Science in California with focus on deep learning and computer vision. Previously, I had done mainly bioinformatics, although I took some ML, DL-related courses. I did not have much research experience and no industrial experience at all in these spheres. Moreover, I had never taken a real industrial coding interview and did not have Algorithms course at university. Imagine my shock when I realized that my very first coding interview would be with Google! Maybe I was lucky, maybe it was a coincidence, but I want to think about it as a result of hard work and strong efforts. If I could do it, then you can too!
 
