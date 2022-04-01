@@ -68,7 +68,7 @@ Keywords are highly important for the preliminary check of your CV either by a s
 
 </aside>
 
-
+\\
 I guess you caught the point: use as much phrases and keywords from the job vacancy. Remember, it is a good idea to customize your CV for each position.
 
 ### Order and grammatical expressions
