@@ -31,7 +31,7 @@ I organized this post as follows:
 3. How to find positions and referees
 4. Cultural matching
 5. ML/DL interview
-6. [**General tips for the coding interview (very important, you can scroll there right away)**](/_posts/2022-04-01-tips_towards_an_offer.md#general-tips-for-coding-interview)
+6. [**General tips for the coding interview (very important, you can scroll there right away)**](/posts/2022/04/tips_towards_an_offer#general-tips-for-coding-interview)
 
 
 # How to prepare your CV
