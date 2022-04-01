@@ -1,7 +1,7 @@
 ---
 title: "Tips towards an offer"
 date: 2022-04-01
-permalink: /posts/2022/04/preparation/
+permalink: /posts/2022/04/tips_towards_an_offer/
 tags:
   - applications
   - CV
@@ -158,7 +158,7 @@ As I mentioned before, I had never had technical interviews, and this whole expe
     
     > “Well, I am thinking about X, but I doubt that it can be the best solution because of Y and Z. So maybe I should go in the direction of W”.
     > 
-2. **Do not rush into solving a problem.** Re-read, re-think and, the most important here, ask questions concerning the problem. You need to show that you do not blindly dive into everything you ****are given. You need to critically evaluate and be sure you have understood the task correctly. Some examples of the possible questions: 
+2. **Do not rush into solving a problem.** Re-read, re-think and, the most important here, ask questions concerning the problem. You need to show that you do not blindly dive into everything you are given. You need to critically evaluate and be sure you have understood the task correctly. Some examples of the possible questions: 
     1. Should the values be integers of floats? 
     2. Negative or positive? 
     3. Do I need to sort, or can I just use build-in sorting functions? 
