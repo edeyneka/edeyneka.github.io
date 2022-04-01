@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ekaterina Deyneka / Researcher"
+title                    : "Ekaterina Deyneka / Researcher, ML Engineer"
 title_separator          : "-"
 name                     : &name "Ekaterina Deyneka"
-description              : &description "Computer Science PhD student @ UCI"
+description              : &description "Computer Science @ UCI"
 url                      : https://edeyneka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edeyneka/edeyneka.github.io"
