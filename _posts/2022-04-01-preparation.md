@@ -92,7 +92,7 @@ As I mentioned earlier, each job vacancy needs an individual approach. Therefore
 LinkedIn page is equally important as a CV. Even if an employer gets your CV file via some other sources, they are likely to check your LinkedIn page anyway. Therefore, I strongly recommend to make your page professional and attractive. Moreover, you might apply for some positions through LinkedIn itself, or you may write to potential employers or referees.
 
 1. Photo. Your photo should be professional and cropped to show your face clearly. If you have a profile photo, you page will immediately become more visible. 
-2. Headline. Make it full of keywords and list them with “|” sign. Here should be the most important information about you.
+2. Headline. Make it full of keywords and list them with “\|” sign. Here should be the most important information about you.
     
     ![LinkedIn.png](/images/LinkedIn.png)
     
