@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ekaterina Deyneka / Researcher, ML Engineer"
+title                    : "Ekaterina Deyneka / Researcher / ML Engineer"
 title_separator          : "-"
 name                     : &name "Ekaterina Deyneka"
 description              : &description "Computer Science @ UCI"
