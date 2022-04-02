@@ -142,7 +142,7 @@ Here are some topics that I find important and interesting to go through before 
 
 If you are applying for a Computer Vision position, make sure that you know what is convolution, why do we need convolution, how to code it; average and maximum pooling and how to code it, how input and output dimensions are associated; batch/instance/layer normalization; types of losses and metrics; Image-to-Image Translation, GANs, Wasserstein GAN, StyleGAN, NeRF, etc. This is, of course, not a comprehensive list but I hope you can get a feeling of the level of details.
 
-![NeRF_meme.JPG](/images/NeRF_meme.JPG)
+![NeRF_meme.JPG](/images/NeRF_meme.jpeg)
 
 # General tips for coding interview
 
