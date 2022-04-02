@@ -27,10 +27,10 @@ In 2020 I started my PhD in Computer Science at UCI with a focus on deep learnin
 I organized this post as follows:
 
 1. [How to prepare your CV](/posts/2022/04/tips_towards_an_offer#how-to-prepare-your-cv)
-2. [LinkedIn](/posts/2022/04/linked-in)
-3. [How to find positions and referrals](/posts/2022/04/how-to-find-positions-and-referrals)
-4. [Cultural matching](/posts/2022/04/cultural-matching)
-5. [ML/DL interview](/posts/2022/04/ml-dl-interview)
+2. [LinkedIn](/posts/2022/04/tips_towards_an_offer#linked-in)
+3. [How to find positions and referrals](/posts/2022/04/tips_towards_an_offer#how-to-find-positions-and-referrals)
+4. [Cultural matching](/posts/2022/04/tips_towards_an_offer#cultural-matching)
+5. [ML/DL interview](/posts/2022/04/tips_towards_an_offer#ml-dl-interview)
 6. [**General tips for the coding interview (very important, you can scroll there right away)**](/posts/2022/04/tips_towards_an_offer#general-tips-for-coding-interview)
 
 
