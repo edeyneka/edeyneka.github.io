@@ -127,7 +127,7 @@ Moreover, it is a nice practice to prepare questions for the employer. Usually, 
 
 # ML/DL interview
 
-If you have an interview for an ML/DL engineering position, you are likely to discuss some ML basics and specific topics related to a particular industry, e.g. Computer Vision, Natural Language Processing, Reinforcement Learning, etc. It might sound obvious but be sure that you are aware of which networks or methods are the most relevant in a particular team or company. 
+If you have an interview for an ML/DL engineering position, you are likely to discuss some ML basics and specific topics related to a particular industry, e.g. Computer Vision, Natural Language Processing, Reinforcement Learning, etc. It might sound obvious but be sure that you are aware what networks or methods are the most relevant to a particular team or company. 
 
 Here are some topics that I find important and interesting to go through before the interview. 
 
