@@ -130,10 +130,7 @@ Moreover, it is a nice practice to prepare questions for the employer. Usually, 
 If you have an interview for an ML/DL engineering position, you are likely to discuss some ML basics and specific topics related to a particular industry, e.g. Computer Vision, Natural Language Processing, Reinforcement Learning, etc. It might sound obvious but be sure that you are aware of which networks or methods are the most relevant in a particular team or company. 
 
 Here are some topics that I find important and interesting to go through before the interview. 
-<!-- <aside>
-🤔 I might write some words about the likelihood framework for regression and bayesian inference, but maybe next time 😄
 
-</aside> -->
 1. Linear regression. Maximizing Likelihood and minimizing Mean Squared Error
 2. Maximum a Posteriori estimations
 3. Bayesian Inference and regularizations: Lasso and Ridge
