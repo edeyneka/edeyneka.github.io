@@ -131,9 +131,9 @@ If you have an interview for an ML/DL engineering position, you are likely to di
 
 Here are some topics that I find important and interesting to go through before the interview. 
 
-1. Linear regression. Maximizing Likelihood and minimizing Mean Squared Error
-2. Maximum a Posteriori estimations
-3. Bayesian Inference and regularizations: Lasso and Ridge
+1. Linear regression. Maximizing likelihood and minimizing Mean Squared Error
+2. Maximum a posteriori estimation
+3. Bayesian inference and regularizations: Lasso and Ridge
 4. Bias-variance tradeoff
 5. AUC-ROC and other quality metrics
 6. Ensembles. Random forests, gradient boosting, AdaBoost 
@@ -156,7 +156,6 @@ As I mentioned before, I had never had technical interviews, and this whole expe
     > 
 2. **Do not rush into solving a problem.** Re-read, re-think and, most important here, ask questions concerning the problem. You need to show that you do not blindly dive into everything you are given. You need to critically evaluate and be sure you have understood the task correctly. Some examples of the possible questions: 
     1. Should the values be integers of floats? 
-
     2. Negative or positive? 
     3. Do I need to sort, or can I just use build-in sorting functions? 
     4. Do we have duplicate numbers, e.g. in an array? 
