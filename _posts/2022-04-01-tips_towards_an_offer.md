@@ -106,7 +106,7 @@ A LinkedIn page is equally important as a CV. Even if an employer gets your CV f
 
 As soon as you are done with your CV and LinkedIn page, it is time to actively look for people who can help you with a job. Of course, your CV might change multiple times depending on the particular job opening, but you should have at least something. I can give a couple of recommendations that can help you:
 
-1. Find people from your university that are in working in your area of interest and ask them about potential referrals or jobs.
+1. Find people from your university that are working in your area of interest and ask them about potential referrals or jobs.
 2. There can be professional Telegram/Slack/Discord channels where people discuss vacancies. You can make a posting there with a short description and attach your CV. I found my internships via [ODS Slack](https://ods.ai/). 
 3. If you are targeting any particular company, you can find its page on LinkedIn, then click on “People” tab and select those who graduated from your university, for example. Or who work in a particular country. Alternatively, you can find your university's LinkedIn page, go to “Alumni” tab, and then you can select based on either a country or a company. Then you can connect with those people and ask them about the company and possible openings, or maybe a referral. 
 
