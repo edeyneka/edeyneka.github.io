@@ -30,7 +30,7 @@ I organized this post as follows:
 2. [LinkedIn](/posts/2022/04/tips_towards_an_offer#linkedin)
 3. [How to find positions and referrals](/posts/2022/04/tips_towards_an_offer#how-to-find-positions-and-referrals)
 4. [Cultural matching](/posts/2022/04/tips_towards_an_offer#cultural-matching)
-5. [ML/DL interview](/posts/2022/04/tips_towards_an_offer#ml-dl-interview)
+5. [ML/DL interview](/posts/2022/04/tips_towards_an_offer#mldl-interview)
 6. [**General tips for the coding interview (very important, you can scroll there right away)**](/posts/2022/04/tips_towards_an_offer#general-tips-for-coding-interview)
 
 
