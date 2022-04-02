@@ -44,6 +44,10 @@ CV is your business card. For IT positions, it is strongly recommended to limit 
 
 Pay attention to the employer’s country guidelines concerning the photo in your CV. In the US, people do not include a photo because your appearance should not affect the hiring process.
 
+### Personal details
+
+Do not write your actual/mailing address in your CV, area and city is enough. You never know where your CV will end up and how it will be used. Therefore, be careful with the information you providing.
+
 ### Keywords
 
 Keywords are highly important for the preliminary check of your CV either by a software tool or by real people. Scan the job posting for the keywords and try to include them as much as possible in the CV. Pay attention not only to the technical requirements but also to the description of a company, their values and priorities. For example, there is [a job posting from Apple:](https://jobs.apple.com/en-us/details/200272282/ai-ml-ml-applied-scientist-ml-platform-technology?team=MLAI)
