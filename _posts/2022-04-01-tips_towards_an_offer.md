@@ -13,7 +13,7 @@ tags:
 
 *CV, LinkedIn, job positions, and interviews*
 
-Hello! It has been more than a year since I received my software engineering internship offers. Now I want to share all the details of my application process and hope it can help someone, especially in the current situation. I think this blog post can be useful not only for SWE/ML interns but also for those applying for full-time positions and even not SWE/ML.
+Hello! It has been more than a year since I received my software engineering internship offers. Now I want to share some the details of my application process and hope it can help someone, especially in the current situation. I think this blog post can be useful not only for SWE/ML interns but also for those applying for full-time positions and even not SWE/ML.
 
 > Disclaimer: I got offers from Snap Inc, Apple and went through all technical interviews with Google, and dropped from the process by myself (because I had already accepted Snap’s offer).
 > 
