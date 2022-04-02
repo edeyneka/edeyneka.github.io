@@ -46,7 +46,7 @@ Pay attention to the employer’s country guidelines concerning the photo in you
 
 ### Keywords
 
-Keywords are highly important for the preliminary check of your CV either by a software tool or by real people. Scan the job posting for the keywords and try to include them as much as possible in the CV. Pay attention not only to the technical requirements but also to the description of a company their values and priorities. For example, there is [a job posting from Apple:](https://jobs.apple.com/en-us/details/200272282/ai-ml-ml-applied-scientist-ml-platform-technology?team=MLAI)
+Keywords are highly important for the preliminary check of your CV either by a software tool or by real people. Scan the job posting for the keywords and try to include them as much as possible in the CV. Pay attention not only to the technical requirements but also to the description of a company, their values and priorities. For example, there is [a job posting from Apple:](https://jobs.apple.com/en-us/details/200272282/ai-ml-ml-applied-scientist-ml-platform-technology?team=MLAI)
 
 ![CV_job_1.png](/images/CV_job_1.png)
 
