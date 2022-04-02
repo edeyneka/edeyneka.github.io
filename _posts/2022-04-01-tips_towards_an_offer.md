@@ -90,7 +90,7 @@ As I mentioned earlier, each job vacancy needs an individual approach. Therefore
 
 # LinkedIn
 
-A LinkedIn page is equally important as a CV. Even if an employer gets your CV file via some other sources, they are likely to check your LinkedIn page anyway. Therefore, I strongly recommend making your page professional and attractive. Moreover, you might apply for some positions through LinkedIn itself, or you may write to potential employers or referees.
+A LinkedIn page is equally important as a CV. Even if an employer gets your CV file via some other sources, they are likely to check your LinkedIn page anyway. Therefore, I strongly recommend making your page professional and attractive. Moreover, you might apply for some positions through LinkedIn itself, or you may write to potential employers or ask for a referral.
 
 1. Photo. Your photo should be professional and cropped to show your face clearly. If you have a profile photo, your page will immediately become more visible. 
 2. Headline. Make it full of keywords and list them with “\|” sign. Here should be the most important information about you.
@@ -100,7 +100,7 @@ A LinkedIn page is equally important as a CV. Even if an employer gets your CV f
 3. Edit URL. Personalize the URL for your profile so that it is recognizable and easy to share.
 4. Fill in all the information about your education (including the core courses), work experience with the description of responsibility and achievements, projects, awards, and skills. If you know someone who can endorse your skills, ask them to do so. Here, your master résumé could be of great help - you can just copy all the details. LinkedIn does not limit you in any way, so provide all the information you find valuable for the potential employer.
 5. Recommendations. Ask people who are aware of your professional background to write a recommendation for you. It can increase your ranking in search and, just in general, makes your page more attractive.
-6. Make a lot of connections. Usually, it is a good idea to connect with your university mates, especially those who are working in the industry of interest. I suggest aiming for 500+ connections. Your connections are the most important driver in finding a referee or a job position. For more info, see the next section.
+6. Make a lot of connections. Usually, it is a good idea to connect with your university mates, especially those who are working in the industry of interest. I suggest aiming for 500+ connections. Your connections are the most important driver in finding a referral or a job position. For more info, see next section.
 
 # How to find positions and referrals
 
